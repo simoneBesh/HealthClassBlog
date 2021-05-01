@@ -1,0 +1,70 @@
+.header{
+    background-color: rgb(206, 252, 255);
+}
+
+
+.menu{
+    font-size: x-large;
+    display: flex; 
+    justify-content: space-around;
+}
+
+.box{
+    background-color: rgb(253, 193, 193);
+    margin-right:  400px; 
+    margin-left: 400px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.enitre{
+    background-color:rgb(206, 252, 255);
+}
+
+a:link{
+    color: mintcream;
+    }
+a:visited{
+        color: rgb(92, 161, 124);
+    }
+
+.origami{
+  border-radius: 20px;
+  background-color: rgb(248, 156, 123);
+  width: 350px;
+  margin: 20px;
+    
+}
+
+.origami:hover{
+    transform: scale(1.2);
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.sidebar{
+    background-color: lightblue;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+ h2{
+    background-color: lightblue;
+ }
+
+ .question{ 
+     background-color:lightsalmon;
+ }
+
